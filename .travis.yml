@@ -11,7 +11,7 @@ env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 
-branches:
-  only:
-    - gh-pages
-    - next
+# branches:
+#   only:
+#     - gh-pages
+#     - next
