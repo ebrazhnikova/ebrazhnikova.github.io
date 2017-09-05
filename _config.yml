@@ -16,7 +16,7 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://ebrazhnikova.github.io/
+url: https://ebrazhnikova.github.io
 
 permalink: /:title/
 
@@ -33,13 +33,14 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+facebook: facebook
 twitter: mytwitter
+vk: myvk
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-# youtube: myyoutube
+youtube: myyoutube
 # spotify: myspotify
 # github: mygithub
 # lastfm: mylastfm
